@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://philshon.github.io/sitemap.xml 
